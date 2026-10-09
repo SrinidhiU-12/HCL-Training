@@ -1,0 +1,202 @@
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>PSNA Student Management System</title>
+    <link rel="stylesheet" href="sms_style.css">
+</head>
+
+<body>
+
+    <!-- Navigation Bar -->
+    <nav>
+        <h2>PSNA STUDENT MANAGEMENT SYSTEM</h2>
+
+        <div>
+            <a href="#home">Home</a>
+            <a href="#about">About Us</a>
+            <a href="#courses">Courses</a>
+            <a href="#faculty">Faculty</a>
+            <a href="#notices">Notices</a>
+            <a href="#contact">Contact Us</a>
+        </div>
+    </nav>
+
+
+    <!-- Home Section -->
+    <section id="home" class="home">
+
+        <h1>Welcome to Our College Login Portal</h1>
+
+        <p>
+            Access your academic and campus services through one secure platform.
+        </p>
+
+        <a href="#student-form" class="start-button">
+            Get Started 
+        </a>
+
+    </section>
+
+
+    <!-- About Us Section -->
+    <section id="about" class="section">
+
+        <h2>About Us</h2>
+
+        <p>
+            Our Student Management System helps maintain each student's
+            information in a simple and organized way.
+            Users can add student details, view records and
+            delete student information when required.
+
+        </p>
+        <p>
+            <b>Vision Of The College :</b>
+            To provide world class engineering education for individuals to become technologically superior, 
+            socially conscious and responsible citizens for the welfare of mankind.
+            <br> 
+        </p>
+        <p>
+            <b>Mission Of The College :</b>
+            <br>
+            1. To achieve academic excellence by imparting knowledge and skills through problem solving, 
+            practical training and design & development of innovative projects.
+            <br>
+            2. To develop leadership and inter disciplinary team skills through effective communication training.
+            <br>
+            3. To carry out applied research in Engineering & Technology and facilitate life-long learning.
+        </p>
+
+    </section>
+
+
+    <!-- Courses Section -->
+    <section id="courses" class="section">
+
+        <h2>Courses Offered</h2>
+
+        <ul>
+            <li>Civil Engineering</li>
+            <li>Computer Science Engineering</li>
+            <li>Information Technology</li>
+            <li>Electronics and Communication Engineering</li>
+            <li>Electrical and Electronics Engineering</li>
+            <li>Mechanical Engineering</li>
+
+        </ul>
+
+    </section>
+
+
+    <!-- Faculty Section -->
+    <section id="faculty" class="section">
+
+        <h2>Our Faculty</h2>
+
+        <p>
+            Our faculty members guide students in their
+            academic learning and technical development.
+            They are highly qualified and experienced in their respective fields.
+        </p>
+
+    </section>
+
+
+    <!-- Notices Section -->
+    <section id="notices" class="section">
+
+        <h2>Help Desk</h2>
+
+        <p> 
+            For any queries or assistance, please contact our help desk.
+            We are here to support you with any issues related to the Student Management System.
+
+        </p>
+
+    </section>
+
+
+    <!-- Add Student Form -->
+    <section id="student-form" class="section">
+
+        <h2>Student Registration</h2>
+
+        <form onsubmit="addStudent(event)">
+
+            <label>Student Name</label>
+            <input type="text" id="name"
+                placeholder="Enter student name" required>
+
+            <label>Register Number</label>
+            <input type="text" id="regno"
+                placeholder="Enter register number" required>
+
+            <label>Department</label>
+            <input type="text" id="department"
+                placeholder="Enter department" required>
+
+            <label>Year</label>
+            <input type="number" id="year"
+                placeholder="Enter year" min="1" max="5" required>
+
+            <button type="submit">Add Student</button>
+
+        </form>
+
+    </section>
+
+
+    <!-- Student Details Table -->
+    <section id="student-details" class="section">
+
+        <h2>Student Details</h2>
+
+        <table>
+
+            <thead>
+                <tr>
+                    <th>S.No</th>
+                    <th>Name</th>
+                    <th>Register Number</th>
+                    <th>Department</th>
+                    <th>Year</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+
+            <tbody id="studentTable">
+            </tbody>
+
+        </table>
+
+    </section>
+
+
+    <!-- Contact Us Section -->
+    <section id="contact" class="section">
+
+        <h2>Contact Us</h2>
+
+        <p>Email: contact@psnacet.edu.in</p>
+        <p>Phone: 06385333135</p>
+        <p>Address: Kothandaraman Nagar, Tamil Nadu 624622</p>
+
+    </section>
+
+
+    <!-- Footer -->
+    <footer>
+
+        <p> &copy; 2023 PSNA College of Engineering and Technology. All rights reserved.</p>
+
+    </footer>
+
+
+    <script src="sms_script.js"></script>
+
+</body>
+
+</html>
+

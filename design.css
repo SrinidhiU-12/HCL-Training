@@ -1,0 +1,12 @@
+h1{
+    color:blue
+}
+div{
+    background-color: yellow;
+}
+table,td,tr{
+    background-color: rgba(128, 128, 128, 0.934);
+    cursor: pointer;
+    border: bottom 1px;
+    border-color: brown;
+}

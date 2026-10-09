@@ -1,0 +1,10 @@
+1. Welcome to the JavaScript text sample.
+2. Learning to code opens up new doors.
+3. Variables store data for later use.
+4. Functions help you repeat blocks of code.
+5. Arrays keep a list of multiple items.
+6. Objects group related properties together.
+7. Events listen for user clicks and actions.
+8. Asynchronous code handles network requests.
+9. Debugging helps find and fix errors.
+10. Practice every day to build your skills.

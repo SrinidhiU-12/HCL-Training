@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <title>Billing Generator</title>
+    <link rel="stylesheet" href="bill style.css">
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>Billing Generator</h1>
+    <p class="subtitle">Select a product and generate your bill</p>
+
+
+    <!-- Product List -->
+
+    <div class="product-list">
+
+        <h2>Available Products</h2>
+
+        
+
+        <div class="products">
+
+            <div class="product-card" onclick="openGroceries()">
+            <b>1</b>
+            <h3>Groceries</h3>
+            <p>View Products</p>
+            </div>
+
+            <div class="product-card">
+                <b>2</b>
+                <h3>Makeup</h3>
+                <p>Rs.250</p>
+            </div>
+
+            <div class="product-card">
+                <b>3</b>
+                <h3>Stationery</h3>
+                <p>Rs.50</p>
+            </div>
+
+            <div class="product-card">
+                <b>4</b>
+                <h3>Clothing</h3>
+                <p>Rs.500</p>
+            </div>
+
+            <div class="product-card">
+                <b>5</b>
+                <h3>Electronics</h3>
+                <p>Rs.1000</p>
+            </div>
+
+        </div>
+
+    </div>
+
+
+    <!-- Input -->
+
+    <div class="billing-box">
+
+        <h2>Add Product</h2>
+
+        <form onsubmit="generateBill(); return false;">
+
+            <label>Product</label>
+
+            <select id="product">
+
+                <option value="">Select Product</option>
+
+                <option value="1">1 - Groceries</option>
+
+                <option value="2">2 - Makeup</option>
+
+                <option value="3">3 - Stationery</option>
+
+                <option value="4">4 - Clothing</option>
+
+                <option value="5">5 - Electronics</option>
+
+            </select>
+
+
+            <label>Quantity</label>
+
+            <input type="number"
+                   id="quantity"
+                   placeholder="Enter quantity"
+                   min="1">
+
+
+            <button type="submit">
+                Add to Bill
+            </button>
+
+        </form>
+
+        <p id="message"></p>
+
+    </div>
+
+
+    <!-- Bill -->
+
+    <div class="bill-box">
+
+        <h2>Bill Summary</h2>
+
+        <table>
+
+            <thead>
+
+                <tr>
+                    <th>No.</th>
+                    <th>Product</th>
+                    <th>Quantity</th>
+                    <th>Cost</th>
+                    <th>Total</th>
+                </tr>
+
+            </thead>
+
+            <tbody id="bill">
+
+            </tbody>
+
+        </table>
+
+
+        <div class="total-box">
+
+            <h2 id="grandTotal">
+                Grand Total: Rs.0
+            </h2>
+
+        </div>
+
+        
+        <div class="pdf-button">
+            <button onclick="downloadPDF()">Download Bill Receipt PDF</button>
+         </div>
+
+
+    </div>
+
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+
+<script src="bill script.js"></script>
+
+
+</body>
+
+</html>

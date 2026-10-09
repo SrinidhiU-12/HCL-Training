@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <form id="Form">
+
+        <label="name">Name:</label>
+        <input type="text" id="name" placeholder="name"><br>
+        
+        <label="year">Year:</label>
+        <input type="text" id="year" placeholder="year"><br>
+
+        <button type="submit">Submit</button>
+        <p>
+            This is a sample form. Please fill in your name and year, then click submit to see the result.
+        </p>
+    </form>
+</body>
+<form onsubmit="getData(); return false;">
+    <input type="text" id="name" placeholder="Enter name">
+    <input type="number" id="age" placeholder="Enter age">
+    <input type="text" id="city" placeholder="Enter city">
+
+    <button type="submit">Submit</button>
+</form>
+<br>
+
+<p id="result"></p>
+
+<script>
+function getData() {
+
+    let person = {
+        name: document.getElementById("name").value,
+        age: document.getElementById("age").value,
+    };
+
+    document.getElementById("result").innerHTML =
+        "Name: " + person.name + "<br>" +
+        "Age: " + person.age + "<br>";
+}
+</script>
+</html>

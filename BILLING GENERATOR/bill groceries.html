@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <title>Groceries</title>
+
+    <link rel="stylesheet" href="bill style.css">
+
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>Groceries</h1>
+
+    <p class="subtitle">
+        Select your grocery product
+    </p>
+
+
+    <!-- ADD HERE -->
+
+    <div class="grocery-products">
+
+
+        <div class="grocery-card">
+
+            <img src="https://images.unsplash.com/photo-1542838132-92c53300491e?w=500">
+
+            <h3>Fresh Vegetables</h3>
+
+            <p>Rs.120</p>
+
+            <button onclick="selectProduct('Fresh Vegetables',120)">
+                Select
+            </button>
+
+        </div>
+
+
+        <div class="grocery-card">
+
+            <img src="https://images.unsplash.com/photo-1579113800032-c38bd7635818?w=500">
+
+            <h3>Fruits</h3>
+
+            <p>Rs.150</p>
+
+            <button onclick="selectProduct('Fruits',150)">
+                Select
+            </button>
+
+        </div>
+
+
+        <div class="grocery-card">
+
+            <img src="https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=500">
+
+            <h3>Honey</h3>
+
+            <p>Rs.250</p>
+
+            <button onclick="selectProduct('Honey',250)">
+                Select
+            </button>
+
+        </div>
+
+
+        <div class="grocery-card">
+
+            <img src="https://images.unsplash.com/photo-1586201375761-83865001e31c?w=500">
+
+            <h3>Rice</h3>
+
+            <p>Rs.80</p>
+
+            <button onclick="selectProduct('Rice',80)">
+                Select
+            </button>
+
+        </div>
+
+
+        <div class="grocery-card">
+
+            <img src="https://images.unsplash.com/photo-1583267746897-2cf415887172?w=500">
+
+            <h3>Milk</h3>
+
+            <p>Rs.60</p>
+
+            <button onclick="selectProduct('Milk',60)">
+                Select
+            </button>
+
+        </div>
+
+
+        <div class="grocery-card">
+
+            <img src="https://images.unsplash.com/photo-1550583724-b2692b85b150?w=500">
+
+            <h3>Milk Packet</h3>
+
+            <p>Rs.50</p>
+
+            <button onclick="selectProduct('Milk Packet',50)">
+                Select
+            </button>
+
+        </div>
+
+
+        <div class="grocery-card">
+
+            <img src="https://images.unsplash.com/photo-1601050690597-df0568f70950?w=500">
+
+            <h3>Wheat Flour</h3>
+
+            <p>Rs.70</p>
+
+            <button onclick="selectProduct('Wheat Flour',70)">
+                Select
+            </button>
+
+        </div>
+
+
+        <div class="grocery-card">
+
+            <img src="https://images.unsplash.com/photo-1553530666-ba11a7da3888?w=500">
+
+            <h3>Biscuits</h3>
+
+            <p>Rs.40</p>
+
+            <button onclick="selectProduct('Biscuits',40)">
+                Select
+            </button>
+
+        </div>
+
+
+        <div class="grocery-card">
+
+            <img src="https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?w=500">
+
+            <h3>Cooking Oil</h3>
+
+            <p>Rs.180</p>
+
+            <button onclick="selectProduct('Cooking Oil',180)">
+                Select
+            </button>
+
+        </div>
+
+
+        <div class="grocery-card">
+
+            <img src="https://images.unsplash.com/photo-1601050690117-94f5f6fa8bd7?w=500">
+
+            <h3>Spices</h3>
+
+            <p>Rs.100</p>
+
+            <button onclick="selectProduct('Spices',100)">
+                Select
+            </button>
+
+        </div>
+
+
+    </div>
+
+    <!-- END HERE -->
+
+
+    <!-- ADD HERE -->
+
+    <button class="back-button" onclick="goBack()">
+        Back to Billing
+    </button>
+
+    <!-- END HERE -->
+
+
+</div>
+
+
+<!-- ADD HERE -->
+
+<script>
+
+function selectProduct(name, price) {
+
+    localStorage.setItem("selectedProduct", name);
+
+    localStorage.setItem("selectedPrice", price);
+
+    window.location.href = "index.html";
+
+}
+
+
+function goBack() {
+
+    window.location.href = "index.html";
+
+}
+
+</script>
+
+<!-- END HERE -->
+
+</body>
+
+</html>

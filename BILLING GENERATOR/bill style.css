@@ -1,0 +1,336 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  }
+
+body {
+font-family: Arial, sans-serif;
+background: linear-gradient(135deg, #667eea, #764ba2);
+min-height: 100vh;
+padding: 40px 20px;
+}
+
+.container {
+width: 90%;
+max-width: 1000px;
+margin: auto;
+}
+
+/* Heading */
+
+h1 {
+text-align: center;
+color: white;
+font-size: 40px;
+margin-bottom: 8px;
+}
+
+.subtitle {
+text-align: center;
+color: white;
+font-size: 18px;
+margin-bottom: 30px;
+}
+
+/* Product List */
+
+.product-list {
+background: white;
+padding: 25px;
+border-radius: 15px;
+margin-bottom: 25px;
+}
+
+.product-list h2 {
+text-align: center;
+margin-bottom: 20px;
+}
+
+.products {
+display: grid;
+grid-template-columns: repeat(5, 1fr);
+gap: 15px;
+}
+
+.product-card {
+background: #f4f5ff;
+border-radius: 12px;
+padding: 18px;
+text-align: center;
+}
+
+.product-card:hover {
+transform: translateY(-5px);
+box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+}
+
+.product-card b {
+display: inline-block;
+background: #667eea;
+color: white;
+width: 35px;
+height: 35px;
+line-height: 35px;
+border-radius: 50%;
+margin-bottom: 10px;
+}
+
+.product-card h3 {
+margin-bottom: 8px;
+}
+
+.product-card p {
+color: #667eea;
+font-weight: bold;
+}
+
+/* Billing */
+
+.billing-box {
+background: white;
+padding: 30px;
+border-radius: 15px;
+margin-bottom: 25px;
+}
+
+.billing-box h2 {
+margin-bottom: 20px;
+}
+
+label {
+display: block;
+margin-bottom: 8px;
+margin-top: 15px;
+font-weight: bold;
+}
+
+input,
+select {
+width: 100%;
+padding: 13px;
+border: 2px solid #ddd;
+border-radius: 8px;
+font-size: 16px;
+outline: none;
+}
+
+input:focus,
+select:focus {
+border-color: #667eea;
+}
+
+button {
+width: 100%;
+margin-top: 20px;
+padding: 14px;
+border: none;
+border-radius: 8px;
+background: linear-gradient(135deg, #667eea, #764ba2);
+color: white;
+font-size: 17px;
+font-weight: bold;
+cursor: pointer;
+}
+
+button:hover {
+opacity: 0.9;
+}
+
+#message {
+text-align: center;
+margin-top: 15px;
+font-weight: bold;
+}
+
+/* Bill */
+
+.bill-box {
+background: white;
+padding: 30px;
+border-radius: 15px;
+}
+
+.bill-box h2 {
+margin-bottom: 20px;
+}
+
+table {
+width: 100%;
+border-collapse: collapse;
+}
+
+th {
+background: #667eea;
+color: white;
+padding: 13px;
+}
+
+td {
+padding: 12px;
+text-align: center;
+border-bottom: 1px solid #ddd;
+}
+
+tr:hover {
+background: #f5f5f5;
+}
+
+/* Grand Total */
+
+.total-box {
+margin-top: 20px;
+text-align: right;
+}
+
+#grandTotal {
+color: #667eea;
+}
+
+/* Mobile */
+
+@media (max-width: 700px) {
+
+.products {
+    grid-template-columns: repeat(2, 1fr);
+}
+
+table {
+    font-size: 13px;
+}
+
+
+}
+
+/* ADD HERE */
+
+.pdf-button {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.pdf-button button {
+    width: 250px;
+    background: #222;
+}
+
+.pdf-button button:hover {
+    background: #444;
+}
+
+/* END HERE */
+
+/* ADD HERE */
+
+.grocery-products {
+
+    display: grid;
+
+    grid-template-columns: repeat(4, 1fr);
+
+    gap: 20px;
+
+    background: white;
+
+    padding: 25px;
+
+    border-radius: 15px;
+
+}
+
+
+.grocery-card {
+
+    background: #f4f5ff;
+
+    border-radius: 12px;
+
+    padding: 15px;
+
+    text-align: center;
+
+    transition: 0.3s;
+
+}
+
+
+.grocery-card:hover {
+
+    transform: translateY(-5px);
+
+    box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+
+}
+
+
+.grocery-card img {
+
+    width: 100%;
+
+    height: 150px;
+
+    object-fit: cover;
+
+    border-radius: 10px;
+
+}
+
+
+.grocery-card h3 {
+
+    margin-top: 12px;
+
+    margin-bottom: 8px;
+
+}
+
+
+.grocery-card p {
+
+    color: #667eea;
+
+    font-weight: bold;
+
+}
+
+
+.grocery-card button {
+
+    margin-top: 10px;
+
+}
+
+
+.back-button {
+
+    width: 200px;
+
+    display: block;
+
+    margin: 25px auto;
+
+}
+
+
+@media (max-width: 800px) {
+
+    .grocery-products {
+
+        grid-template-columns: repeat(2, 1fr);
+
+    }
+
+}
+
+
+@media (max-width: 500px) {
+
+    .grocery-products {
+
+        grid-template-columns: 1fr;
+
+    }
+
+}
+
+/* END HERE */
