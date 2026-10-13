@@ -1,0 +1,17 @@
+
+# Visual Studio generated files
+.vs/
+**/bin/
+**/obj/
+
+# Build outputs
+[Bb]in/
+[Oo]bj/
+
+# User-specific files
+*.user
+*.suo
+
+# Local database files
+*.sqlite
+*.db
