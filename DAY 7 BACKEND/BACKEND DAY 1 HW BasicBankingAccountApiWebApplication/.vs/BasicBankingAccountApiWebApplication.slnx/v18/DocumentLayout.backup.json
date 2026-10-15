@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\BasicBankingAccountApiWebApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D76E8546-90C0-07E9-42F4-AAA5460D3502}|BasicBankingAccountApiWebApplication\\BasicBankingAccountApiWebApplication.csproj|c:\\users\\user\\source\\repos\\basicbankingaccountapiwebapplication\\basicbankingaccountapiwebapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D76E8546-90C0-07E9-42F4-AAA5460D3502}|BasicBankingAccountApiWebApplication\\BasicBankingAccountApiWebApplication.csproj|solutionrelative:basicbankingaccountapiwebapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76E8546-90C0-07E9-42F4-AAA5460D3502}|BasicBankingAccountApiWebApplication\\BasicBankingAccountApiWebApplication.csproj|c:\\users\\user\\source\\repos\\basicbankingaccountapiwebapplication\\basicbankingaccountapiwebapplication\\basicbankingaccountapiwebapplication.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D76E8546-90C0-07E9-42F4-AAA5460D3502}|BasicBankingAccountApiWebApplication\\BasicBankingAccountApiWebApplication.csproj|solutionrelative:basicbankingaccountapiwebapplication\\basicbankingaccountapiwebapplication.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76E8546-90C0-07E9-42F4-AAA5460D3502}|BasicBankingAccountApiWebApplication\\BasicBankingAccountApiWebApplication.csproj|c:\\users\\user\\source\\repos\\basicbankingaccountapiwebapplication\\basicbankingaccountapiwebapplication\\migrations\\20261013010027_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76E8546-90C0-07E9-42F4-AAA5460D3502}|BasicBankingAccountApiWebApplication\\BasicBankingAccountApiWebApplication.csproj|solutionrelative:basicbankingaccountapiwebapplication\\migrations\\20261013010027_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76E8546-90C0-07E9-42F4-AAA5460D3502}|BasicBankingAccountApiWebApplication\\BasicBankingAccountApiWebApplication.csproj|c:\\users\\user\\source\\repos\\basicbankingaccountapiwebapplication\\basicbankingaccountapiwebapplication\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76E8546-90C0-07E9-42F4-AAA5460D3502}|BasicBankingAccountApiWebApplication\\BasicBankingAccountApiWebApplication.csproj|solutionrelative:basicbankingaccountapiwebapplication\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76E8546-90C0-07E9-42F4-AAA5460D3502}|BasicBankingAccountApiWebApplication\\BasicBankingAccountApiWebApplication.csproj|c:\\users\\user\\source\\repos\\basicbankingaccountapiwebapplication\\basicbankingaccountapiwebapplication\\controllers\\bankaccountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76E8546-90C0-07E9-42F4-AAA5460D3502}|BasicBankingAccountApiWebApplication\\BasicBankingAccountApiWebApplication.csproj|solutionrelative:basicbankingaccountapiwebapplication\\controllers\\bankaccountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76E8546-90C0-07E9-42F4-AAA5460D3502}|BasicBankingAccountApiWebApplication\\BasicBankingAccountApiWebApplication.csproj|c:\\users\\user\\source\\repos\\basicbankingaccountapiwebapplication\\basicbankingaccountapiwebapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76E8546-90C0-07E9-42F4-AAA5460D3502}|BasicBankingAccountApiWebApplication\\BasicBankingAccountApiWebApplication.csproj|solutionrelative:basicbankingaccountapiwebapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76E8546-90C0-07E9-42F4-AAA5460D3502}|BasicBankingAccountApiWebApplication\\BasicBankingAccountApiWebApplication.csproj|c:\\users\\user\\source\\repos\\basicbankingaccountapiwebapplication\\basicbankingaccountapiwebapplication\\models\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76E8546-90C0-07E9-42F4-AAA5460D3502}|BasicBankingAccountApiWebApplication\\BasicBankingAccountApiWebApplication.csproj|solutionrelative:basicbankingaccountapiwebapplication\\models\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76E8546-90C0-07E9-42F4-AAA5460D3502}|BasicBankingAccountApiWebApplication\\BasicBankingAccountApiWebApplication.csproj|c:\\users\\user\\source\\repos\\basicbankingaccountapiwebapplication\\basicbankingaccountapiwebapplication\\basicbankingaccountapiwebapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D76E8546-90C0-07E9-42F4-AAA5460D3502}|BasicBankingAccountApiWebApplication\\BasicBankingAccountApiWebApplication.csproj|solutionrelative:basicbankingaccountapiwebapplication\\basicbankingaccountapiwebapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20261013010027_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\BasicBankingAccountApiWebApplication\\BasicBankingAccountApiWebApplication\\Migrations\\20261013010027_InitialCreate.cs",
+              "RelativeDocumentMoniker": "BasicBankingAccountApiWebApplication\\Migrations\\20261013010027_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\BasicBankingAccountApiWebApplication\\BasicBankingAccountApiWebApplication\\Migrations\\20261013010027_InitialCreate.cs",
+              "RelativeToolTip": "BasicBankingAccountApiWebApplication\\Migrations\\20261013010027_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T01:00:27.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\BasicBankingAccountApiWebApplication\\BasicBankingAccountApiWebApplication\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BasicBankingAccountApiWebApplication\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\BasicBankingAccountApiWebApplication\\BasicBankingAccountApiWebApplication\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BasicBankingAccountApiWebApplication\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T00:47:50.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BankAccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\BasicBankingAccountApiWebApplication\\BasicBankingAccountApiWebApplication\\Controllers\\BankAccountsController.cs",
+              "RelativeDocumentMoniker": "BasicBankingAccountApiWebApplication\\Controllers\\BankAccountsController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\BasicBankingAccountApiWebApplication\\BasicBankingAccountApiWebApplication\\Controllers\\BankAccountsController.cs",
+              "RelativeToolTip": "BasicBankingAccountApiWebApplication\\Controllers\\BankAccountsController.cs",
+              "ViewState": "AgIAAOwAAAAAAAAAAAAAAAMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T00:46:08.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\BasicBankingAccountApiWebApplication\\BasicBankingAccountApiWebApplication\\Program.cs",
+              "RelativeDocumentMoniker": "BasicBankingAccountApiWebApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\BasicBankingAccountApiWebApplication\\BasicBankingAccountApiWebApplication\\Program.cs",
+              "RelativeToolTip": "BasicBankingAccountApiWebApplication\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T00:57:38.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\BasicBankingAccountApiWebApplication\\BasicBankingAccountApiWebApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "BasicBankingAccountApiWebApplication\\appsettings.json",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\BasicBankingAccountApiWebApplication\\BasicBankingAccountApiWebApplication\\appsettings.json",
+              "RelativeToolTip": "BasicBankingAccountApiWebApplication\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-13T00:57:25.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BasicBankingAccountApiWebApplication",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\BasicBankingAccountApiWebApplication\\BasicBankingAccountApiWebApplication\\BasicBankingAccountApiWebApplication.csproj",
+              "RelativeDocumentMoniker": "BasicBankingAccountApiWebApplication\\BasicBankingAccountApiWebApplication.csproj",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\BasicBankingAccountApiWebApplication\\BasicBankingAccountApiWebApplication\\BasicBankingAccountApiWebApplication.csproj",
+              "RelativeToolTip": "BasicBankingAccountApiWebApplication\\BasicBankingAccountApiWebApplication.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-13T01:24:32.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\BasicBankingAccountApiWebApplication\\BasicBankingAccountApiWebApplication\\Models\\BankAccount.cs",
+              "RelativeDocumentMoniker": "BasicBankingAccountApiWebApplication\\Models\\BankAccount.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\BasicBankingAccountApiWebApplication\\BasicBankingAccountApiWebApplication\\Models\\BankAccount.cs",
+              "RelativeToolTip": "BasicBankingAccountApiWebApplication\\Models\\BankAccount.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T00:48:32.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BasicBankingAccountApiWebApplication.csproj",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\BasicBankingAccountApiWebApplication\\BasicBankingAccountApiWebApplication\\BasicBankingAccountApiWebApplication.csproj",
+              "RelativeDocumentMoniker": "BasicBankingAccountApiWebApplication\\BasicBankingAccountApiWebApplication.csproj",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\BasicBankingAccountApiWebApplication\\BasicBankingAccountApiWebApplication\\BasicBankingAccountApiWebApplication.csproj",
+              "RelativeToolTip": "BasicBankingAccountApiWebApplication\\BasicBankingAccountApiWebApplication.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-13T00:46:23.556Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

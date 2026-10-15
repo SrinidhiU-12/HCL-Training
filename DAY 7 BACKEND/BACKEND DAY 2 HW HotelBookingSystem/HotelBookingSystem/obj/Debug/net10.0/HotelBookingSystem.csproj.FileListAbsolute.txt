@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\HotelBookingSystem\HotelBookingSystem\bin\Debug\net10.0\HotelBookingSystem.exe
+C:\Users\USER\source\repos\HotelBookingSystem\HotelBookingSystem\bin\Debug\net10.0\HotelBookingSystem.deps.json
+C:\Users\USER\source\repos\HotelBookingSystem\HotelBookingSystem\bin\Debug\net10.0\HotelBookingSystem.runtimeconfig.json
+C:\Users\USER\source\repos\HotelBookingSystem\HotelBookingSystem\bin\Debug\net10.0\HotelBookingSystem.dll
+C:\Users\USER\source\repos\HotelBookingSystem\HotelBookingSystem\bin\Debug\net10.0\HotelBookingSystem.pdb
+C:\Users\USER\source\repos\HotelBookingSystem\HotelBookingSystem\obj\Debug\net10.0\HotelBookingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\HotelBookingSystem\HotelBookingSystem\obj\Debug\net10.0\HotelBookingSystem.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\HotelBookingSystem\HotelBookingSystem\obj\Debug\net10.0\HotelBookingSystem.AssemblyInfo.cs
+C:\Users\USER\source\repos\HotelBookingSystem\HotelBookingSystem\obj\Debug\net10.0\HotelBookingSystem.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\HotelBookingSystem\HotelBookingSystem\obj\Debug\net10.0\HotelBookingSystem.dll
+C:\Users\USER\source\repos\HotelBookingSystem\HotelBookingSystem\obj\Debug\net10.0\refint\HotelBookingSystem.dll
+C:\Users\USER\source\repos\HotelBookingSystem\HotelBookingSystem\obj\Debug\net10.0\HotelBookingSystem.pdb
+C:\Users\USER\source\repos\HotelBookingSystem\HotelBookingSystem\obj\Debug\net10.0\HotelBookingSystem.genruntimeconfig.cache
+C:\Users\USER\source\repos\HotelBookingSystem\HotelBookingSystem\obj\Debug\net10.0\ref\HotelBookingSystem.dll
+C:\Users\USER\source\repos\HotelBookingSystem\HotelBookingSystem\obj\Debug\net10.0\HotelBoo.F29BE982.Up2Date

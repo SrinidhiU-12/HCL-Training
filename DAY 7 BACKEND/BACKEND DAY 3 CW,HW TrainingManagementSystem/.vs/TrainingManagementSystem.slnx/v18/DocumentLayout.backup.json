@@ -1,0 +1,405 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\TrainingManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\TrainingManagementSystem\\TrainingManagementSystem\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TrainingManagementSystem\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\TrainingManagementSystem\\TrainingManagementSystem\\Models\\Course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TrainingManagementSystem\\Models\\Course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\TrainingManagementSystem\\TrainingManagementSystem\\Utilities\\GenericHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TrainingManagementSystem\\Utilities\\GenericHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\TrainingManagementSystem\\TrainingManagementSystem\\Services\\LearnerService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TrainingManagementSystem\\Services\\LearnerService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\TrainingManagementSystem\\TrainingManagementSystem\\Models\\LearnerRegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TrainingManagementSystem\\Models\\LearnerRegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\TrainingManagementSystem\\TrainingManagementSystem\\Models\\Enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TrainingManagementSystem\\Models\\Enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\TrainingManagementSystem\\TrainingManagementSystem\\Services\\TrainingService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TrainingManagementSystem\\Services\\TrainingService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\TrainingManagementSystem\\TrainingManagementSystem\\Services\\EnrollmentService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TrainingManagementSystem\\Services\\EnrollmentService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\TrainingManagementSystem\\TrainingManagementSystem\\Services\\ReportService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TrainingManagementSystem\\Services\\ReportService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\TrainingManagementSystem\\TrainingManagementSystem\\Payments\\IPaymentProcessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TrainingManagementSystem\\Payments\\IPaymentProcessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\TrainingManagementSystem\\TrainingManagementSystem\\Models\\PaymentService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TrainingManagementSystem\\Models\\PaymentService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\TrainingManagementSystem\\TrainingManagementSystem\\Payments\\OnlinePaymentProcessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TrainingManagementSystem\\Payments\\OnlinePaymentProcessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\TrainingManagementSystem\\TrainingManagementSystem\\Models\\Payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TrainingManagementSystem\\Models\\Payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\TrainingManagementSystem\\TrainingManagementSystem\\Models\\CourseSession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TrainingManagementSystem\\Models\\CourseSession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\TrainingManagementSystem\\TrainingManagementSystem\\Models\\SessionDuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TrainingManagementSystem\\Models\\SessionDuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\TrainingManagementSystem\\TrainingManagementSystem\\Models\\PaymentStatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TrainingManagementSystem\\Models\\PaymentStatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\TrainingManagementSystem\\TrainingManagementSystem\\Payments\\ClassroomPaymentProcessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TrainingManagementSystem\\Payments\\ClassroomPaymentProcessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\TrainingManagementSystem\\TrainingManagementSystem\\Models\\CourseSummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TrainingManagementSystem\\Models\\CourseSummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\TrainingManagementSystem\\TrainingManagementSystem\\Models\\OnlineSession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TrainingManagementSystem\\Models\\OnlineSession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\TrainingManagementSystem\\TrainingManagementSystem\\Services\\FeeCalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TrainingManagementSystem\\Services\\FeeCalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\TrainingManagementSystem\\TrainingManagementSystem\\Models\\FeeSummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TrainingManagementSystem\\Models\\FeeSummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\TrainingManagementSystem\\TrainingManagementSystem\\Models\\EnrollmentStatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TrainingManagementSystem\\Models\\EnrollmentStatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\TrainingManagementSystem\\TrainingManagementSystem\\Services\\LearnerRegistrationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TrainingManagementSystem\\Services\\LearnerRegistrationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\TrainingManagementSystem\\TrainingManagementSystem\\Services\\LearnerManagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TrainingManagementSystem\\Services\\LearnerManagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\TrainingManagementSystem\\TrainingManagementSystem\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "TrainingManagementSystem\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\TrainingManagementSystem\\TrainingManagementSystem\\Models\\Course.cs",
+              "RelativeToolTip": "TrainingManagementSystem\\Models\\Course.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA4wBYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T09:27:49.136Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenericHelper.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\TrainingManagementSystem\\TrainingManagementSystem\\Utilities\\GenericHelper.cs",
+              "RelativeDocumentMoniker": "TrainingManagementSystem\\Utilities\\GenericHelper.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\TrainingManagementSystem\\TrainingManagementSystem\\Utilities\\GenericHelper.cs",
+              "RelativeToolTip": "TrainingManagementSystem\\Utilities\\GenericHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T07:06:09.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LearnerService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\TrainingManagementSystem\\TrainingManagementSystem\\Services\\LearnerService.cs",
+              "RelativeDocumentMoniker": "TrainingManagementSystem\\Services\\LearnerService.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\TrainingManagementSystem\\TrainingManagementSystem\\Services\\LearnerService.cs",
+              "RelativeToolTip": "TrainingManagementSystem\\Services\\LearnerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T06:20:29.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LearnerRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\TrainingManagementSystem\\TrainingManagementSystem\\Models\\LearnerRegistration.cs",
+              "RelativeDocumentMoniker": "TrainingManagementSystem\\Models\\LearnerRegistration.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\TrainingManagementSystem\\TrainingManagementSystem\\Models\\LearnerRegistration.cs",
+              "RelativeToolTip": "TrainingManagementSystem\\Models\\LearnerRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T05:57:30.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\TrainingManagementSystem\\TrainingManagementSystem\\Models\\Enrollment.cs",
+              "RelativeDocumentMoniker": "TrainingManagementSystem\\Models\\Enrollment.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\TrainingManagementSystem\\TrainingManagementSystem\\Models\\Enrollment.cs",
+              "RelativeToolTip": "TrainingManagementSystem\\Models\\Enrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T00:45:11.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\TrainingManagementSystem\\TrainingManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "TrainingManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\TrainingManagementSystem\\TrainingManagementSystem\\Program.cs",
+              "RelativeToolTip": "TrainingManagementSystem\\Program.cs",
+              "ViewState": "AgIAAEgBAAAAAAAAAAAQwMkBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T01:19:51.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TrainingService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\TrainingManagementSystem\\TrainingManagementSystem\\Services\\TrainingService.cs",
+              "RelativeDocumentMoniker": "TrainingManagementSystem\\Services\\TrainingService.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\TrainingManagementSystem\\TrainingManagementSystem\\Services\\TrainingService.cs",
+              "RelativeToolTip": "TrainingManagementSystem\\Services\\TrainingService.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAwwF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T06:26:55.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EnrollmentService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\TrainingManagementSystem\\TrainingManagementSystem\\Services\\EnrollmentService.cs",
+              "RelativeDocumentMoniker": "TrainingManagementSystem\\Services\\EnrollmentService.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\TrainingManagementSystem\\TrainingManagementSystem\\Services\\EnrollmentService.cs",
+              "RelativeToolTip": "TrainingManagementSystem\\Services\\EnrollmentService.cs",
+              "ViewState": "AgIAANsAAAAAAAAAAAAjwLMBAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T00:52:30.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\TrainingManagementSystem\\TrainingManagementSystem\\Services\\ReportService.cs",
+              "RelativeDocumentMoniker": "TrainingManagementSystem\\Services\\ReportService.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\TrainingManagementSystem\\TrainingManagementSystem\\Services\\ReportService.cs",
+              "RelativeToolTip": "TrainingManagementSystem\\Services\\ReportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T06:24:41.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IPaymentProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\TrainingManagementSystem\\TrainingManagementSystem\\Payments\\IPaymentProcessor.cs",
+              "RelativeDocumentMoniker": "TrainingManagementSystem\\Payments\\IPaymentProcessor.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\TrainingManagementSystem\\TrainingManagementSystem\\Payments\\IPaymentProcessor.cs",
+              "RelativeToolTip": "TrainingManagementSystem\\Payments\\IPaymentProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T05:04:30.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\TrainingManagementSystem\\TrainingManagementSystem\\Models\\PaymentService.cs",
+              "RelativeDocumentMoniker": "TrainingManagementSystem\\Models\\PaymentService.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\TrainingManagementSystem\\TrainingManagementSystem\\Models\\PaymentService.cs",
+              "RelativeToolTip": "TrainingManagementSystem\\Models\\PaymentService.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAA/wGcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T06:23:31.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OnlinePaymentProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\TrainingManagementSystem\\TrainingManagementSystem\\Payments\\OnlinePaymentProcessor.cs",
+              "RelativeDocumentMoniker": "TrainingManagementSystem\\Payments\\OnlinePaymentProcessor.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\TrainingManagementSystem\\TrainingManagementSystem\\Payments\\OnlinePaymentProcessor.cs",
+              "RelativeToolTip": "TrainingManagementSystem\\Payments\\OnlinePaymentProcessor.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T05:05:01.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\TrainingManagementSystem\\TrainingManagementSystem\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "TrainingManagementSystem\\Models\\Payment.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\TrainingManagementSystem\\TrainingManagementSystem\\Models\\Payment.cs",
+              "RelativeToolTip": "TrainingManagementSystem\\Models\\Payment.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T05:08:30.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CourseSession.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\TrainingManagementSystem\\TrainingManagementSystem\\Models\\CourseSession.cs",
+              "RelativeDocumentMoniker": "TrainingManagementSystem\\Models\\CourseSession.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\TrainingManagementSystem\\TrainingManagementSystem\\Models\\CourseSession.cs",
+              "RelativeToolTip": "TrainingManagementSystem\\Models\\CourseSession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T03:56:37.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SessionDuration.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\TrainingManagementSystem\\TrainingManagementSystem\\Models\\SessionDuration.cs",
+              "RelativeDocumentMoniker": "TrainingManagementSystem\\Models\\SessionDuration.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\TrainingManagementSystem\\TrainingManagementSystem\\Models\\SessionDuration.cs",
+              "RelativeToolTip": "TrainingManagementSystem\\Models\\SessionDuration.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T03:55:39.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PaymentStatus.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\TrainingManagementSystem\\TrainingManagementSystem\\Models\\PaymentStatus.cs",
+              "RelativeDocumentMoniker": "TrainingManagementSystem\\Models\\PaymentStatus.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\TrainingManagementSystem\\TrainingManagementSystem\\Models\\PaymentStatus.cs",
+              "RelativeToolTip": "TrainingManagementSystem\\Models\\PaymentStatus.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T05:07:28.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ClassroomPaymentProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\TrainingManagementSystem\\TrainingManagementSystem\\Payments\\ClassroomPaymentProcessor.cs",
+              "RelativeDocumentMoniker": "TrainingManagementSystem\\Payments\\ClassroomPaymentProcessor.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\TrainingManagementSystem\\TrainingManagementSystem\\Payments\\ClassroomPaymentProcessor.cs",
+              "RelativeToolTip": "TrainingManagementSystem\\Payments\\ClassroomPaymentProcessor.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T05:05:58.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CourseSummary.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\TrainingManagementSystem\\TrainingManagementSystem\\Models\\CourseSummary.cs",
+              "RelativeDocumentMoniker": "TrainingManagementSystem\\Models\\CourseSummary.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\TrainingManagementSystem\\TrainingManagementSystem\\Models\\CourseSummary.cs",
+              "RelativeToolTip": "TrainingManagementSystem\\Models\\CourseSummary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T04:58:08.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OnlineSession.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\TrainingManagementSystem\\TrainingManagementSystem\\Models\\OnlineSession.cs",
+              "RelativeDocumentMoniker": "TrainingManagementSystem\\Models\\OnlineSession.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\TrainingManagementSystem\\TrainingManagementSystem\\Models\\OnlineSession.cs",
+              "RelativeToolTip": "TrainingManagementSystem\\Models\\OnlineSession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T03:57:54.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FeeCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\TrainingManagementSystem\\TrainingManagementSystem\\Services\\FeeCalculator.cs",
+              "RelativeDocumentMoniker": "TrainingManagementSystem\\Services\\FeeCalculator.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\TrainingManagementSystem\\TrainingManagementSystem\\Services\\FeeCalculator.cs",
+              "RelativeToolTip": "TrainingManagementSystem\\Services\\FeeCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T00:59:10.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FeeSummary.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\TrainingManagementSystem\\TrainingManagementSystem\\Models\\FeeSummary.cs",
+              "RelativeDocumentMoniker": "TrainingManagementSystem\\Models\\FeeSummary.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\TrainingManagementSystem\\TrainingManagementSystem\\Models\\FeeSummary.cs",
+              "RelativeToolTip": "TrainingManagementSystem\\Models\\FeeSummary.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA1wBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T01:03:07.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EnrollmentStatus.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\TrainingManagementSystem\\TrainingManagementSystem\\Models\\EnrollmentStatus.cs",
+              "RelativeDocumentMoniker": "TrainingManagementSystem\\Models\\EnrollmentStatus.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\TrainingManagementSystem\\TrainingManagementSystem\\Models\\EnrollmentStatus.cs",
+              "RelativeToolTip": "TrainingManagementSystem\\Models\\EnrollmentStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T00:45:45.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LearnerRegistrationService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\TrainingManagementSystem\\TrainingManagementSystem\\Services\\LearnerRegistrationService.cs",
+              "RelativeDocumentMoniker": "TrainingManagementSystem\\Services\\LearnerRegistrationService.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\TrainingManagementSystem\\TrainingManagementSystem\\Services\\LearnerRegistrationService.cs",
+              "RelativeToolTip": "TrainingManagementSystem\\Services\\LearnerRegistrationService.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T09:54:34.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LearnerManagement.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\TrainingManagementSystem\\TrainingManagementSystem\\Services\\LearnerManagement.cs",
+              "RelativeDocumentMoniker": "TrainingManagementSystem\\Services\\LearnerManagement.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\TrainingManagementSystem\\TrainingManagementSystem\\Services\\LearnerManagement.cs",
+              "RelativeToolTip": "TrainingManagementSystem\\Services\\LearnerManagement.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAowEQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T09:31:36.223Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

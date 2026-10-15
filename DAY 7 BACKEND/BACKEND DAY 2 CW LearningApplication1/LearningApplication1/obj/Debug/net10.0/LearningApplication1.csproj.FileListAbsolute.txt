@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\LearningApplication1\LearningApplication1\obj\Debug\net10.0\LearningApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\LearningApplication1\LearningApplication1\obj\Debug\net10.0\LearningApplication1.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\LearningApplication1\LearningApplication1\obj\Debug\net10.0\LearningApplication1.AssemblyInfo.cs
+C:\Users\USER\source\repos\LearningApplication1\LearningApplication1\obj\Debug\net10.0\LearningApplication1.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\LearningApplication1\LearningApplication1\bin\Debug\net10.0\LearningApplication1.exe
+C:\Users\USER\source\repos\LearningApplication1\LearningApplication1\bin\Debug\net10.0\LearningApplication1.deps.json
+C:\Users\USER\source\repos\LearningApplication1\LearningApplication1\bin\Debug\net10.0\LearningApplication1.runtimeconfig.json
+C:\Users\USER\source\repos\LearningApplication1\LearningApplication1\bin\Debug\net10.0\LearningApplication1.dll
+C:\Users\USER\source\repos\LearningApplication1\LearningApplication1\bin\Debug\net10.0\LearningApplication1.pdb
+C:\Users\USER\source\repos\LearningApplication1\LearningApplication1\obj\Debug\net10.0\LearningApplication1.dll
+C:\Users\USER\source\repos\LearningApplication1\LearningApplication1\obj\Debug\net10.0\refint\LearningApplication1.dll
+C:\Users\USER\source\repos\LearningApplication1\LearningApplication1\obj\Debug\net10.0\LearningApplication1.pdb
+C:\Users\USER\source\repos\LearningApplication1\LearningApplication1\obj\Debug\net10.0\LearningApplication1.genruntimeconfig.cache
+C:\Users\USER\source\repos\LearningApplication1\LearningApplication1\obj\Debug\net10.0\ref\LearningApplication1.dll
+C:\Users\USER\source\repos\LearningApplication1\LearningApplication1\obj\Debug\net10.0\Learning.0AA8EA8D.Up2Date
